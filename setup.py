@@ -24,8 +24,8 @@ setup(name='pymongoback',
           'License :: OSI Approved :: MIT License',
           'Environment :: Console',
           'Topic :: Database',
-          'Topic :: MongoDB',
-          'Topic :: Backups',
-          'Topic :: sysadmin'
+          'Topic :: Software Development :: Build Tools',
+          'Topic :: System :: Archiving :: Backup',
+          'Intended Audience :: System Administrators'
       ]
       )
